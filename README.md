@@ -36,9 +36,9 @@ Build an interactive dashboard to analyze employee performance, satisfaction, an
 ### **Task Assignments**
 - **Data Cleaning & Transformation**: Mohammad Walid Hosny Hussein
 - **Dashboard Design & KPIs**: Kerolos Hani Nabil Zaki, Yassen Khaled Lotfy Ahmed
-- **Report Storytelling & Interactivity**: Yousef Abdalla Agaiby Faleh
+- **Report Storytelling & Interactivity**: Yousef Abdalla Agaiby Faleh , Noreen Mohamed Ashraf Hassen
 - **Tableau Implementation**: Taghrid Yasser Gomaa Eid
-- **Documentation & Final Report**: Noreen Mohamed Ashraf Hassen
+- **Documentation & Final Report**: All Team Members
 
 ### **Risk Assessment & Mitigation**
 - **Risk: Inconsistent employee data** → Solution: Data validation techniques.
