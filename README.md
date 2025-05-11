@@ -3,10 +3,8 @@
 ## Project Overview
 This project is an interactive **HR Analytics Dashboard** built using **Power BI** and **Tableau**. It provides insights into employee performance, attrition trends, job satisfaction, and salary distribution using CSV-based datasets. The dashboard includes KPIs such as employee tenure, attrition rates, and performance ratings to help HR teams make data-driven decisions.
 
-Project Files
-All datasets, dashboards, and related resources are available in the shared Google Drive folder:
-[👉 Access Project Files on Google Drive]
-(https://drive.google.com/drive/folders/1aULA5kmbX6lqfPdpashVaoz3gPZ_Pb6O?usp=sharing)
+Project Files  
+All datasets, dashboards, and related resources are available in the shared Google Drive folder: [👉 Access Project Files on Google Drive](https://drive.google.com/drive/folders/1aULA5kmbX6lqfPdpashVaoz3gPZ_Pb6O?usp=sharing)
 
 ---
 
